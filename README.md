@@ -30,14 +30,10 @@ This Tableau project dives into Spotify’s audio features to uncover trends acr
 
 | Sheet Title | Description | Preview |
 |-------------|-------------|---------|
-| 🎨 **Genre Comparison** | Bar chart comparing average energy, valence, tempo, and popularity across music genres. | ![Genre](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/06%20Genre%20Comparison.png?raw=true
-) |
+| 🎨 **Genre Comparison** | Bar chart comparing average energy, valence, tempo, and popularity across music genres. | ![Genre](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/06%20Genre%20Comparison.png?raw=true) |
 | 📅 **Mood Trend Over Years** | Line chart tracking how energy and mood (valence) of songs evolved by year. | ![Mood](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/07%20Mood%20Trends.png?raw=true) |
-| ⚡ **Tempo Distribution** | Histogram showing how tempo is distributed across songs. | ![Tempo](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/08%20Tempo%20Distribution.png?raw=true
-) |
-| 🔥 **Energy vs Popularity Scatterplot** | Color-coded scatterplot by genre revealing the relationship between a song’s energy and its popularity. | ![Scatter](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/05%20Energy%20vs%20Popularity%20Scatterplot%20by%20Genre.png?raw=true
-
-) |
+| ⚡ **Tempo Distribution** | Histogram showing how tempo is distributed across songs. | ![Tempo](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/08%20Tempo%20Distribution.png?raw=true) |
+| 🔥 **Energy vs Popularity Scatterplot** | Color-coded scatterplot by genre revealing the relationship between a song’s energy and its popularity. | ![Scatter](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/05%20Energy%20vs%20Popularity%20Scatterplot%20by%20Genre.png?raw=true) |
 | 💃 **Top Dance Tracks** | A ranked list of most danceable songs from the dataset with key metrics. | ![Dance](https://github.com/Nandini19062994/Spotify-audio-dashboard/blob/main/09%20Top%20Dance%20Tracks.png?raw=true) |
 
 
